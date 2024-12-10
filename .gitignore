@@ -1,0 +1,32 @@
+# Archivos y directorios generados por Xcode que no son necesarios
+DerivedData/
+build/
+*.xcworkspace
+*.xcodeproj/project.xcworkspace/
+*.xcuserstate
+*.xcodeproj/xcuserdata/
+
+# Archivos generados por Swift Package Manager
+.swiftpm/
+Package.pins
+Package.resolved
+.xcconfig
+
+# Archivos generados por CocoaPods
+Pods/
+Podfile.lock
+
+# Archivos generados por Carthage
+Carthage/
+cartfile.resolved
+
+# Archivos de usuario específicos de Xcode
+*.xcuserstate
+*.swp
+
+# Archivos de configuración de personalización de Xcode
+.idea/
+
+# Archivos temporales y de caché
+*.log
+*.tmp
